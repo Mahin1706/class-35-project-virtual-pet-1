@@ -1,1 +1,2 @@
-# class-35-project-virtual-pet-1
+# Virtual-pet
+Virtual pet 1
